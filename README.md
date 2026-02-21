@@ -1,6 +1,43 @@
 # Anything HR Website
 
-Welcome to the Anything HR website project! This project aims to provide a comprehensive online presence for Anything HR, offering information and resources related to human resources services.
+Welcome to the Anything HR website project! This project aims to provide a comprehensive online presence for Anything HR, offering information and resources related to human resources services.Anything HR is you local full HR solutions provider
+ — advisory     — compliance         — onboarding     — payroll     — recruitment
+       
+Our  Core HR & Recruitment Activities
+These are the end-to-end services we cover:  
+       
+Talent Identification & Sourcing
+✓ Advertising (job boards, LinkedIn, newspapers, radio)  
+✓ Recruitment software/ATS subscription   
+✓ Candidate database management   
+       
+Screening & Interviews
+✓ Psychometric testing tools    
+✓ Background checks (police, medical, references)  
+✓ Interview panel costs (venue, refreshments, allowances) 
+       
+Job Placement & Onboarding
+✓ Employment contracts drafting    
+✓ Induction programs     
+✓ Compliance with PNG labour laws and tax registration  
+       
+Labour Hire Operations
+✓ Payroll processing     
+✓ Superannuation/NASFUND contributions   
+✓ Leave management     
+✓ Overtime and allowances tracking   
+       
+HR Advisory & Consulting
+✓ Policy development     
+✓ Performance management systems   
+✓ Training & development workshops   
+✓ Employee relations and dispute resolution   
+       
+Compliance & Risk
+✓ Insurance (workers’ compensation, public liability, professional indemnity)
+✓ Safety inductions and WHS compliance   
+✓ Legal advisory retainer    
+
 
 ## Table of Contents
 
